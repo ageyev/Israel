@@ -149,3 +149,6 @@
 ----------
 
 Ссылка на этот документ: https://bit.ly/reforma-israel 
+
+Обсуждение в FB: 
+https://www.facebook.com/viktor.ageyev/posts/pfbid03SwsMw65MvF3auS2ynDNndZbA83EuvEWAeAkDNPuZUCKeuzXn4tZyG1QxoWCdjXMl 
