@@ -224,7 +224,7 @@
 
 **Правительство Израиля**
 
-*Отчет Леви**
+*Отчет Леви*
 
 [Wikipedia: Levy Report](https://en.wikipedia.org/wiki/Levy_Report)
 
@@ -232,17 +232,17 @@
 
 **ООН и его органы**
 
-*Международный суд ООН**
+*Международный суд ООН* 
 
 [Консультативное заключение Международного Суда относительно правовых последствий строительства стены на оккупированной палестинской территории, 13 июля 2004](https://www.icj-cij.org/public/files/advisory-opinions/advisory-opinions-2004-ru.pdf) 
 
-*Международный уголовный суд**
+*Международный уголовный суд* 
 
 [International Criminal Court: Situation in the State of Palestine - Investigation](https://www.icc-cpi.int/palestine) 
 
 [ICC: Decision on the ‘Prosecution request pursuant to article 19(3) for a ruling on the Court’s territorial jurisdiction in Palestine’](https://www.icc-cpi.int/court-record/icc-01/18-143) 
 
-*Общие материалы ООН по теме*
+*Общие материалы ООН по теме* 
 
 [UN:Peace Agreements Database:Israel](https://peacemaker.un.org/document-search?field_paregion_tid=All&field_paconflict_tid=All&field_pacountry_tid=Israel)
 
