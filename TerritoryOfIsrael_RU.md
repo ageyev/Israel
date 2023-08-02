@@ -18,19 +18,19 @@
     - [Верховный суд Израиля \(Багац\)](#%D0%92%D0%B5%D1%80%D1%85%D0%BE%D0%B2%D0%BD%D1%8B%D0%B9-%D1%81%D1%83%D0%B4-%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F-%D0%91%D0%B0%D0%B3%D0%B0%D1%86)
     - [Выводы](#%D0%92%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)
 - [Ссылки:](#%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8)
-- [Британский мандат в Палестине](#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%D1%82-%D0%B2-%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D0%B5)
-- [Провозглашение независимости Израиля](#%D0%9F%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F)
-- [Израиль - Сирия](#%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C---%D0%A1%D0%B8%D1%80%D0%B8%D1%8F)
-- [Израиль - Египет](#%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C---%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82)
-- [Израиль - Иордания](#%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C---%D0%98%D0%BE%D1%80%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
-- [Соглашения в Осло](#%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-%D0%9E%D1%81%D0%BB%D0%BE)
-- [Решения Верховного суда Израиля \(Багац\)](#%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%92%D0%B5%D1%80%D1%85%D0%BE%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE-%D1%81%D1%83%D0%B4%D0%B0-%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F-%D0%91%D0%B0%D0%B3%D0%B0%D1%86)
-- [Правительство Израиля](#%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE-%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F)
-    - [Отчет Леви](#%D0%9E%D1%82%D1%87%D0%B5%D1%82-%D0%9B%D0%B5%D0%B2%D0%B8)
-- [ООН и его органы](#%D0%9E%D0%9E%D0%9D-%D0%B8-%D0%B5%D0%B3%D0%BE-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D1%8B)
-    - [Международный суд ООН](#%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9-%D1%81%D1%83%D0%B4-%D0%9E%D0%9E%D0%9D)
-    - [Международный уголовный суд](#%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9-%D1%83%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D1%8B%D0%B9-%D1%81%D1%83%D0%B4)
-    - [Общие материалы ООН по теме](#%D0%9E%D0%B1%D1%89%D0%B8%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%9E%D0%9E%D0%9D-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BC%D0%B5)
+    - [Британский мандат в Палестине](#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%D1%82-%D0%B2-%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D0%B5)
+    - [Провозглашение независимости Израиля](#%D0%9F%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F)
+    - [Израиль - Сирия](#%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C---%D0%A1%D0%B8%D1%80%D0%B8%D1%8F)
+    - [Израиль - Египет](#%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C---%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82)
+    - [Израиль - Иордания](#%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C---%D0%98%D0%BE%D1%80%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+    - [Соглашения в Осло](#%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-%D0%9E%D1%81%D0%BB%D0%BE)
+    - [Решения Верховного суда Израиля \(Багац\)](#%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%92%D0%B5%D1%80%D1%85%D0%BE%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE-%D1%81%D1%83%D0%B4%D0%B0-%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F-%D0%91%D0%B0%D0%B3%D0%B0%D1%86)
+    - [Правительство Израиля](#%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE-%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F)
+        - [Отчет Леви](#%D0%9E%D1%82%D1%87%D0%B5%D1%82-%D0%9B%D0%B5%D0%B2%D0%B8)
+    - [ООН и его органы](#%D0%9E%D0%9E%D0%9D-%D0%B8-%D0%B5%D0%B3%D0%BE-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D1%8B)
+        - [Международный суд ООН](#%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9-%D1%81%D1%83%D0%B4-%D0%9E%D0%9E%D0%9D)
+        - [Международный уголовный суд](#%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9-%D1%83%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D1%8B%D0%B9-%D1%81%D1%83%D0%B4)
+        - [Общие материалы ООН по теме](#%D0%9E%D0%B1%D1%89%D0%B8%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%9E%D0%9E%D0%9D-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BC%D0%B5)
 
 <!-- /MarkdownTOC -->
 
@@ -176,13 +176,13 @@
 
 ## Ссылки:
 
-## Британский мандат в Палестине
+### Британский мандат в Палестине
 
 [Mandate for Palestine, 24 July 1922](https://en.wikisource.org/wiki/Palestine_Mandate_(1922))
 
 [Mandate for Palestine](https://www.un.org/unispal/wp-content/uploads/2017/05/C-529-M-314-1922-VI_BI.pdf) - French and English texts on UN website. 
 
-## Провозглашение независимости Израиля
+### Провозглашение независимости Израиля
 
 [Резолюция Генеральной Ассамблеи ООН № A/RES/181 (II) "Будущее правительство Палестины"](https://ru.wikisource.org/wiki/%D0%A0%D0%B5%D0%B7%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F_%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%90%D1%81%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%D0%B8_%D0%9E%D0%9E%D0%9D_%E2%84%96_A/RES/181_(II))
 
@@ -190,7 +190,7 @@
 
 [Statement by the Arab League upon the Declaration of the State of Israel (May 15, 1948)](http://www.mideastweb.org/arableague1948.htm)
 
-## Израиль - Сирия
+### Израиль - Сирия
 
 [Декларация о принципах международного права, касающихся дружественных отношений и сотрудничества между государствами в соответствии с Уставом Организации Объединенных Наций. Принята резолюцией 2625 (XXV) Генеральной Ассамблеи ООН от 24 октября 1970 года](https://www.un.org/ru/documents/decl_conv/declarations/intlaw_principles.shtml)
 
@@ -206,17 +206,17 @@
 
 [Википедия: Резолюция Совета Безопасности ООН 497](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B7%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D0%B0_%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%9E%D0%9E%D0%9D_497)
 
-## Израиль - Египет
+### Израиль - Египет
 
 [Peace Treaty Between the State of Israel and the Arab Republic of Egypt, 26/03/1979](https://peacemaker.un.org/egyptisrael-peacetreaty79)
 
-## Израиль - Иордания
+### Израиль - Иордания
 
 [UN: Treaty of Peace between the State of Israel and the Hashemite Kingdom of Jordan, 26/10/1994](https://peacemaker.un.org/israeljordan-peacetreaty94)
 
 [King Hussein Library: Treaty of Peace Between The Hashemite Kingdom of Jordan And The State of Israel](http://www.kinghussein.gov.jo/peacetreaty.html#:~:text=The%20Jordan%2DIsrael%20Peace%20Treaty,the%20Yarmouk%20and%20Jordan%20rivers.) 
 
-## Соглашения в Осло
+### Соглашения в Осло
 
 [Википедия: Соглашения в Осло](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%9E%D1%81%D0%BB%D0%BE)
 
@@ -226,7 +226,7 @@
 
 [Israel-Palestinian Negotiations: Interim Agreement on the West Bank and the Gaza Strip (Oslo II) & Annexes](https://www.jewishvirtuallibrary.org/israeli-palestinian-interim-agreement)
 
-## Решения Верховного суда Израиля (Багац)
+### Решения Верховного суда Израиля (Багац)
 
 [Статус территорий, оккупированных Израилем в 1967 году: Израильские судебные решения](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%82%D1%83%D1%81_%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9,_%D0%BE%D0%BA%D0%BA%D1%83%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D0%B5%D0%BC_%D0%B2_1967_%D0%B3%D0%BE%D0%B4%D1%83)
 
@@ -235,27 +235,27 @@
 
 [Israel High Court Ruling Docket H.C.J. 7957/04 International Legality of the Security Fence and Sections near Alfei Menashe September 15, 2005](https://zionism-israel.com/hdoc/High_Court_Fence.htm)
 
-## Правительство Израиля
+### Правительство Израиля
 
-### Отчет Леви
+#### Отчет Леви
 
 [Wikipedia: Levy Report](https://en.wikipedia.org/wiki/Levy_Report)
 
 [The Levy Commission Report on the Legal Status of Building in Judea and Samaria](https://web.archive.org/web/20150508072813/http://regavim.org.il/en/wp-content/uploads/2014/11/The-Levy-Commission-Report-on-the-Legal-Status-of-Building-in-Judea-and-Samaria2.pdf) 
 
-## ООН и его органы
+### ООН и его органы
 
-### Международный суд ООН
+#### Международный суд ООН
 
 [Консультативное заключение Международного Суда относительно правовых последствий строительства стены на оккупированной палестинской территории, 13 июля 2004](https://www.icj-cij.org/public/files/advisory-opinions/advisory-opinions-2004-ru.pdf) 
 
-### Международный уголовный суд
+#### Международный уголовный суд
 
 [International Criminal Court: Situation in the State of Palestine - Investigation](https://www.icc-cpi.int/palestine) 
 
 [ICC: Decision on the ‘Prosecution request pursuant to article 19(3) for a ruling on the Court’s territorial jurisdiction in Palestine’](https://www.icc-cpi.int/court-record/icc-01/18-143) 
 
-### Общие материалы ООН по теме
+#### Общие материалы ООН по теме
 
 [UN:Peace Agreements Database:Israel](https://peacemaker.un.org/document-search?field_paregion_tid=All&field_paconflict_tid=All&field_pacountry_tid=Israel)
 
