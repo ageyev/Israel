@@ -1,6 +1,8 @@
 .env
 .notes
 
+.~lock.*
+
 ### SublimeText ###
 
 # Cache files for Sublime Text
