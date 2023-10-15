@@ -5,3 +5,5 @@
 [Где проходят границы Израиля и что Израиль на самом деле оккупирует](/TerritoryOfIsrael_RU.md) 
 
 [Кто такие палестинцы](/palestinians/palestinians_ru.md)
+
+[Право войны и война Израиля с Газой](/law_of_war/law_of_war_ru.md)
