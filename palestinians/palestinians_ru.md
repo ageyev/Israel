@@ -54,3 +54,8 @@
 
 [The United Nations Relief and Works Agency for Palestine Refugees (UNRWA)](https://www.unrwa.org) 
 
+--------------- 
+
+Краткая ссылка на этот текст: 
+
+https://bit.ly/palestinians_ru 
