@@ -67,6 +67,10 @@
 
 [The United Nations Relief and Works Agency for Palestine Refugees (UNRWA)](https://www.unrwa.org) 
 
+[When the Palestinians Didn’t Claim Al-Aqsa](https://www.irelandisrael.ie/blog/when-the-palestinians-didnt-claim-al-aqsa/) 
+
+[Что такое Палестина и кто такие палестинцы. История](https://www.youtube.com/watch?v=nIXzLuAXcK0)
+
 --------------- 
 
 Краткая ссылка на этот текст: 
