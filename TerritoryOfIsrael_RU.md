@@ -222,7 +222,6 @@
 
 [Статус территорий, оккупированных Израилем в 1967 году: Израильские судебные решения](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%82%D1%83%D1%81_%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9,_%D0%BE%D0%BA%D0%BA%D1%83%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D0%B5%D0%BC_%D0%B2_1967_%D0%B3%D0%BE%D0%B4%D1%83)
 
-
 [Википедия: Статус территорий, оккупированных Израилем в 1967 году](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%82%D1%83%D1%81_%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9,_%D0%BE%D0%BA%D0%BA%D1%83%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D0%B5%D0%BC_%D0%B2_1967_%D0%B3%D0%BE%D0%B4%D1%83)
 
 [Israel High Court Ruling Docket H.C.J. 7957/04 International Legality of the Security Fence and Sections near Alfei Menashe September 15, 2005](https://zionism-israel.com/hdoc/High_Court_Fence.htm)
@@ -236,6 +235,12 @@
 [The Levy Commission Report on the Legal Status of Building in Judea and Samaria](https://web.archive.org/web/20150508072813/http://regavim.org.il/en/wp-content/uploads/2014/11/The-Levy-Commission-Report-on-the-Legal-Status-of-Building-in-Judea-and-Samaria2.pdf) 
 
 **ООН и его органы**
+
+*Совет Безопасности ООН*
+
+[Wikipedia: Резолюция Совета Безопасности ООН № 242, 22 ноября 1967 года](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B7%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D0%B0_%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%9E%D0%9E%D0%9D_242) 
+
+[Wikipedia: Резолюция Совета Безопасности ООН № 2334, 23 декабря 2016 года](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B7%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D0%B0_%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%9E%D0%9E%D0%9D_2334)
 
 *Международный суд ООН* 
 

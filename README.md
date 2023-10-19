@@ -6,6 +6,6 @@
 
 [Где проходят границы Израиля и что Израиль на самом деле оккупирует](https://bit.ly/israel-territory) 
 
-[Кто такие палестинцы](https://bit.ly/palestinians_ru)
+[Кто такие "палестинцы"](https://bit.ly/palestinians_ru)
 
 [Что такое "мечеть Аль Акса" упоминаемая в Коране?](https://bit.ly/al-aqsa-googledocs-ru) 
