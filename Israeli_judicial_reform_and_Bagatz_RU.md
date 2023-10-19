@@ -1,5 +1,5 @@
 
-# Юридическая реформа в Израиле 🇮🇱 и Багац
+# Юридическая реформа в Израиле и Верховный Суд Израиля (Багац)
 
 <!-- MarkdownTOC -->
 
@@ -186,7 +186,6 @@
 
 ----------
 
-Ссылка на этот документ: https://bit.ly/reforma-israel 
+Краткая ссылка на этот документ: https://bit.ly/reforma-israel 
 
-Обсуждение в FB: 
-https://www.facebook.com/viktor.ageyev/posts/pfbid03SwsMw65MvF3auS2ynDNndZbA83EuvEWAeAkDNPuZUCKeuzXn4tZyG1QxoWCdjXMl 
+[Обсуждение в Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid03SwsMw65MvF3auS2ynDNndZbA83EuvEWAeAkDNPuZUCKeuzXn4tZyG1QxoWCdjXMl) 

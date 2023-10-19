@@ -263,6 +263,6 @@
 
 --------- 
 
-Краткая ссылка на этот текст: 
+Краткая ссылка на этот текст: https://bit.ly/israel-territory 
 
-https://bit.ly/israel-territory 
+[Обсуждение в Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid05SkssRcDfT9E1cxAY3hym4YFZd2UDMTNbVsHfYgc86oiUc9GB5wQmYJ1yy8evMBMl) 

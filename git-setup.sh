@@ -7,7 +7,7 @@ source ./.env
 # echo "GIT_USER_NAME: $GIT_USER_NAME"
 # echo "GIT_USER_EMAIL: $GIT_USER_EMAIL"
 
-git init
+# git init 
 git config --local user.name "$GIT_USER_NAME"
 git config --local user.email "$GIT_USER_EMAIL"
 #git config --list --local
