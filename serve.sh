@@ -5,7 +5,7 @@
 # see: https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#installing-virtualenv
 # python3 -m venv ~/python3_env_default
 ## activate python virtual environment
-# source ~/python3_env_default/bin/activate
+source ~/python3_env_default/bin/activate
 # If you want to switch projects or otherwise leave your virtual environment, simply run:
 # deactivate
 ## install grip:
@@ -16,3 +16,5 @@ python3 -m grip
 
 # to serve specific .md file: 
 # python3 -m grip ./README.md 
+# and specify a port 
+# python3 -m grip 3333

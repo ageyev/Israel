@@ -3,4 +3,4 @@
 sudo apt install pandoc texlive texlive-xetex 
 
 # convert to pdf: 
-pandoc ./doc.md --pdf-engine=xelatex -o ./doc.md.pdf
+pandoc ./doc.md --pdf-engine=xelatex -o ./doc.md.pdf 
