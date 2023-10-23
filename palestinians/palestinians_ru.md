@@ -71,6 +71,10 @@
 
 [Что такое Палестина и кто такие палестинцы. История](https://www.youtube.com/watch?v=nIXzLuAXcK0)
 
+[Декларация Организации Объединенных Наций о правах коренных народов](https://www.un.org/ru/documents/decl_conv/declarations/indigenous_rights.shtml) Принята резолюцией [61/295](https://legal.un.org/avl/pdf/ha/ga_61-295/ga_61-295_ph_r.pdf) Генеральной Ассамблеи от 13 сентября 2007 года 
+
+[Golda Meir discusses the Palestinian identity](https://www.youtube.com/watch?v=I9M91iwP994)
+
 --------------- 
 
 Краткая ссылка на этот текст: 
