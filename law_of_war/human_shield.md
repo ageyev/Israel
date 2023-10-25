@@ -10,3 +10,8 @@ And this is exactly what Hamas and its supporters, including Antonio Guterres, a
 
 [ICRC: IHL Databases: Practice relating to Rule 97. Human Shields](https://ihl-databases.icrc.org/en/customary-ihl/v2/rule97) 
 
+----- 
+
+Short link to this document: 
+
+https://bit.ly/human-shield-en 
