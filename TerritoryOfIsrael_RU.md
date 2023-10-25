@@ -168,6 +168,12 @@
 
 ## Ссылки:
 
+**Общие нормы о границах** 
+
+[Cornell Law School: uti possidetis juris](https://www.law.cornell.edu/wex/uti_possidetis_juris)
+
+[Wikipedia: Uti possidetis juris](https://en.wikipedia.org/wiki/Uti_possidetis_juris)
+
 **Британский мандат в Палестине**
 
 [Mandate for Palestine, 24 July 1922](https://en.wikisource.org/wiki/Palestine_Mandate_(1922))
