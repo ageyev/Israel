@@ -6,6 +6,8 @@ See Article 8(2)(b)(xxiii) of the 1998 ICC Statute, Article 28 of the 1949 Genev
 
 And this is exactly what Hamas and its supporters, including Antonio Guterres, are doing: trying to stop legitimate military action of Israel and protect Hamas and it's power in the Gaza strip referring to the presence of civilians in the city being a legitimate military target, as legitimate as Berlin in 1945.
 
+What was required in 1945 was not a humanitarian ceasefire to protect the Nazis, but a complete and unconditional surrender of Germany. Gaza must surrender, hand over hostages and transfer power over Gaza to Israel. 
+
 ## Links: 
 
 [ICRC: IHL Databases: Practice relating to Rule 97. Human Shields](https://ihl-databases.icrc.org/en/customary-ihl/v2/rule97) 
