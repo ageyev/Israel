@@ -206,23 +206,35 @@
 
 **Израиль - Египет**
 
-[Peace Treaty Between the State of Israel and the Arab Republic of Egypt, 26/03/1979](https://peacemaker.un.org/egyptisrael-peacetreaty79)
+[Peace Treaty Between the State of Israel and the Arab Republic of Egypt, 26/03/1979](https://peacemaker.un.org/egyptisrael-peacetreaty79) 
+
+[Википедия: Блокада сектора Газа](https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%BA%D0%B0%D0%B4%D0%B0_%D1%81%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B0_%D0%93%D0%B0%D0%B7%D0%B0) 
 
 **Израиль - Иордания**
+
+[Википедия: Аннексия Иорданией западного берега реки Иордан](https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%BD%D0%B5%D0%BA%D1%81%D0%B8%D1%8F_%D0%98%D0%BE%D1%80%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%D0%B9_%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0_%D1%80%D0%B5%D0%BA%D0%B8_%D0%98%D0%BE%D1%80%D0%B4%D0%B0%D0%BD) 
 
 [UN: Treaty of Peace between the State of Israel and the Hashemite Kingdom of Jordan, 26/10/1994](https://peacemaker.un.org/israeljordan-peacetreaty94)
 
 [King Hussein Library: Treaty of Peace Between The Hashemite Kingdom of Jordan And The State of Israel](http://www.kinghussein.gov.jo/peacetreaty.html#:~:text=The%20Jordan%2DIsrael%20Peace%20Treaty,the%20Yarmouk%20and%20Jordan%20rivers.) 
 
+[Wikipedia: Israeli occupation of the West Bank](https://en.wikipedia.org/wiki/Israeli_occupation_of_the_West_Bank) 
+
 **Соглашения в Осло**
 
 [Википедия: Соглашения в Осло](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%9E%D1%81%D0%BB%D0%BE)
 
+[The Declaration of Principles on Interim Self-Government Arrangements is the main agreement signed between Israel and the Palestine Liberation Organisation. It was signed on White House lawn amid much fanfare in September 1993](http://news.bbc.co.uk/2/hi/in_depth/middle_east/israel_and_the_palestinians/key_documents/1682727.stm)(Oslo I Accord)
+
 [ООН: Декларация принципов о временных мерах по самоуправлению («Договоренности Осло»), 13 сентября 1993 года ](https://www.un.org/ru/documents/decl_conv/declarations/oslo_agreements.html) («Осло-1»)
 
-[Israeli-Palestinian Interim Agreement on the West Bank and the Gaza Strip](https://www.jewishvirtuallibrary.org/israeli-palestinian-interim-agreement)) («Осло-2»)
+[Israel-Palestinian Negotiations: Interim Agreement on the West Bank and the Gaza Strip (Oslo II) & Annexes](https://www.jewishvirtuallibrary.org/israeli-palestinian-interim-agreement) 
 
-[Israel-Palestinian Negotiations: Interim Agreement on the West Bank and the Gaza Strip (Oslo II) & Annexes](https://www.jewishvirtuallibrary.org/israeli-palestinian-interim-agreement)
+**Иерусалим** 
+
+[Википедия: Политический статус Иерусалима](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81_%D0%98%D0%B5%D1%80%D1%83%D1%81%D0%B0%D0%BB%D0%B8%D0%BC%D0%B0)
+
+[Википедия: Резолюция Генеральной Ассамблеи ООН A/RES/ES-10/19 "Статус Иерусалима" от 21 декабря 2017](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B7%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F_%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%90%D1%81%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%D0%B8_%D0%9E%D0%9E%D0%9D_A/RES/ES-10/19)
 
 **Решения Верховного суда Израиля (Багац)**
 
@@ -282,6 +294,6 @@
 
 --------- 
 
-Краткая ссылка на этот текст: https://bit.ly/israel-territory 
+Краткая ссылка на этот текст: https://bit.ly/israel-territory  
 
 [Обсуждение в Facebook](https://www.facebook.com/viktor.ageyev/posts/pfbid05SkssRcDfT9E1cxAY3hym4YFZd2UDMTNbVsHfYgc86oiUc9GB5wQmYJ1yy8evMBMl) 

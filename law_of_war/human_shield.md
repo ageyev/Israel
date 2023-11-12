@@ -8,8 +8,6 @@ And this is exactly what Hamas and its supporters, including Antonio Guterres, a
 
 What was required in 1945 was not a humanitarian ceasefire to protect the Nazis, but a complete and unconditional surrender of the Third Reich. Gaza must surrender, hand over hostages and transfer power over Gaza to Israel. Antonio Guterres must leave office. His connections with terrorist organizations and states, including financial, should be investigated. 
 
-
-
 ## Links: 
 
 [ICRC: IHL Databases: Practice relating to Rule 97. Human Shields](https://ihl-databases.icrc.org/en/customary-ihl/v2/rule97) 
