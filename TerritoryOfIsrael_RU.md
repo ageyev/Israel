@@ -272,6 +272,8 @@
 
 *Общие материалы ООН по теме* 
 
+[Wikipedia: International law and the Arab–Israeli conflict](https://en.wikipedia.org/wiki/International_law_and_the_Arab%E2%80%93Israeli_conflict)
+
 [UN:Peace Agreements Database:Israel](https://peacemaker.un.org/document-search?field_paregion_tid=All&field_paconflict_tid=All&field_pacountry_tid=Israel)
 
 [ООН: Вопрос о Палестине](https://www.un.org/unispal/ru/)
@@ -291,6 +293,8 @@
 [Шауль Ариэли, Дуби Шварц, Адас Тагари 'Несправедливость и заблуждение. Об идее перевода арабских населенных пунктов из Израиля в Палестину'](https://en.fips.huji.ac.il/sites/default/files/floersheimeeng/files/arieli_schwartz_injustice_and_folly_russian.pdf) 
 
 [Gisha: Center for the Legal Protection of Freedom of Movement: 'Disengagement Danger: Israeli Attempts to Separate Gaza from the West Bank' Briefing Paper. February 2006](https://www.gisha.org/userfiles/file/publications_english/Disengagement_Danger_6feb_06.pdf)
+
+[Пинхас Полонский. Разделы Палестины: законность, справедливость, прагматизм](https://www.ejwiki.academy/univer/kursu/razdely-palestiny-zakonnost-spravedlivost-pragmatizm/)
 
 --------- 
 
