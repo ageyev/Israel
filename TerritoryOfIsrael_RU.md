@@ -286,6 +286,8 @@
 
 [ООН: Вопрос о Палестине и ООН](https://www.un.org/unispal/ru/2017/08/29/questionofpalestineandun/) 
 
+[Wikipedia: List of United Nations resolutions concerning Palestine](https://en.wikipedia.org/wiki/List_of_United_Nations_resolutions_concerning_Palestine)
+
 **Другие публикации по теме** 
 
 [Howard Grief 'The Origin of the Occupation Myth'](http://www.acpr.org.il/English-Nativ/08-issue/grief-8.htm)
