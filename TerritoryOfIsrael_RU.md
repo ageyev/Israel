@@ -244,6 +244,8 @@
 
 [Israel High Court Ruling Docket H.C.J. 7957/04 International Legality of the Security Fence and Sections near Alfei Menashe September 15, 2005](https://zionism-israel.com/hdoc/High_Court_Fence.htm)
 
+[Beit Sourik Village Council v. The Government of Israel et. al., HCJ 2056/04, Supreme Court, 20 June 2004 / ICRC: IHL Databases](https://ihl-databases.icrc.org/en/national-practice/beit-sourik-village-council-v-government-israel-et-al-hcj-205604-supreme-court-20) 
+
 **Правительство Израиля**
 
 *Отчет Леви*
@@ -263,6 +265,10 @@
 *Международный суд ООН* 
 
 [Консультативное заключение Международного Суда относительно правовых последствий строительства стены на оккупированной палестинской территории, 13 июля 2004](https://www.icj-cij.org/public/files/advisory-opinions/advisory-opinions-2004-ru.pdf) 
+
+[Written Statement Of The European Leadership Network And Uk Lawyers For Israel](https://www.dropbox.com/scl/fi/4dvg2t7hi06h6ndedgm4y/ELNET-Submission-to-ICJ-29-9-23-final.pdf) 
+
+[ICJ: Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem (Request for Advisory Opinion)](https://www.icj-cij.org/case/186)
 
 *Международный уголовный суд* 
 
