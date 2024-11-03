@@ -95,6 +95,9 @@
 
 [Right of Self-Determination of the Palestinian People – CEIRPP, DPR study](https://www.un.org/unispal/document/auto-insert-196558/)
 
+[Israeli minister says there’s ‘no such thing as a Palestinian people,’ inviting US rebuke](https://edition.cnn.com/2023/03/21/middleeast/israel-smotrich-palestinians-intl/) // 
+By Hadas Gold, Amir Tal and Abeer Salman, CNN, Tue March 21, 2023 
+
 --------------- 
 
 Краткая ссылка на этот текст: 

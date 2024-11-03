@@ -308,7 +308,9 @@ out prejudice to the status of that territory"
 
 [ООН: Декларация принципов о временных мерах по самоуправлению («Договоренности Осло»), 13 сентября 1993 года ](https://www.un.org/ru/documents/decl_conv/declarations/oslo_agreements.html) («Осло-1»)
 
-[Israel-Palestinian Negotiations: Interim Agreement on the West Bank and the Gaza Strip (Oslo II) & Annexes](https://www.jewishvirtuallibrary.org/israeli-palestinian-interim-agreement) 
+[Israel-Palestinian Negotiations: Interim Agreement on the West Bank and the Gaza Strip (Oslo II) & Annexes](https://www.jewishvirtuallibrary.org/israeli-palestinian-interim-agreement) на сайте Jewish Virtual Library
+
+[Israeli-Palestinian Interim Agreement on the West Bank and the Gaza Strip (a.k.a. “Oslo II”)](https://www.un.org/unispal/document/auto-insert-185434/) на сайте ООН.
 
 **Иерусалим** 
 
